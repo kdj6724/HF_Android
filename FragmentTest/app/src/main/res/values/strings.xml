@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FragmentTest</string>
+    <string name="details_button">Show details</string>
 </resources>
